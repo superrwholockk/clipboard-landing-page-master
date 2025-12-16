@@ -295,7 +295,7 @@ h1 {
     }
 }
 
-@media (max-width: 1440px) {
+@media (max-width: 1024px) {
     .testimonials-section {
         flex-direction: column;
         gap: 60px;
